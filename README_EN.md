@@ -1,5 +1,7 @@
 # SnackCheck - Nutrition Verdict
 
+**Language:** English | [Español](README.md)
+
 Automation built in **n8n** that analyzes a packaged food product from its barcode, retrieves real product data from **Open Food Facts**, applies deterministic nutrition rules, and generates a final verdict accompanied by a short explanation using **Groq AI**.
 
 ---

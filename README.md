@@ -1,5 +1,7 @@
 # SnackCheck - Nutrition Verdict
 
+**Idioma:** Español | [English](README_EN.md)
+
 Automatización en **n8n** que analiza un alimento envasado a partir de su código de barras, consulta sus datos reales en **Open Food Facts**, aplica reglas nutricionales deterministas y genera un veredicto final acompañado de una explicación breve mediante **IA con Groq**.
 
 ---
